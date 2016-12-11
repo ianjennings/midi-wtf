@@ -1,0 +1,18 @@
+{
+  "name": "midi-drum-map",
+  "version": "1.0.0",
+  "description": "A key value table that turns a midi drum noteNumber into a string representing the instrument",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "midi",
+    "drum",
+    "music",
+    "table",
+    "instrument"
+  ],
+  "author": "Ian Jennings",
+  "license": "ISC"
+}
