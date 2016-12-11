@@ -1,7 +1,7 @@
 {
   "name": "midi-wtf",
   "version": "1.0.0",
-  "description": "Find out what fucking instrument or drum note a midi file is referencing.",
+  "description": "A key value table that turns a useless fucking midi instrument or note id into something useful.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
