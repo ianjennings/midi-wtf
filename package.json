@@ -1,7 +1,7 @@
 {
-  "name": "midi-drum-map",
+  "name": "midi-wtf",
   "version": "1.0.0",
-  "description": "A key value table that turns a midi drum noteNumber into a string representing the instrument",
+  "description": "Find out what fucking instrument or drum note a midi file is referencing.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +14,13 @@
     "instrument"
   ],
   "author": "Ian Jennings",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianjennings/midi-wtf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ianjennings/midi-wtf.git/issues"
+  },
+  "homepage": "https://github.com/ianjennings/midi-wtf.git#readme"
 }
